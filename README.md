@@ -1,0 +1,2 @@
+# chatgptanditsconsequences
+blog post
