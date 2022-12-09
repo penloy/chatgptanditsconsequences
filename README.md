@@ -1,4 +1,4 @@
-# chatgptanditsconsequences
+# ChatGPT and its consequences for Open Source Software
 
 The rise of large language models like ChatGPT has many people excited about the possibilities for natural language processing and artificial intelligence. However, there are also some potential drawbacks to the use of these powerful tools, especially in the context of free and open source software.
 
